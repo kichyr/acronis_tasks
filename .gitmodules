@@ -1,0 +1,9 @@
+[submodule "echoloop"]
+	path = echoloop
+	url = https://github.com/kichyr/echoloop
+[submodule "searching_substrings"]
+	path = searching_substrings
+	url = https://github.com/kichyr/searching_substrings
+[submodule "tic_tac_toys"]
+	path = tic_tac_toys
+	url = https://github.com/kichyr/tic_tac_toys
